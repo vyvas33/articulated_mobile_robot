@@ -4,7 +4,7 @@ This repository contains the report and simulation code for a modular, center-ar
 
 ![CAD Model of the Robot](images/robot.png)
 
-![Operating on flat and uneven ground](images/uneven.png)
+![Operating on flat and uneven ground](images/uneven.jpg)
 
 ![Traversing a straight pipe with a 400 mm inner diameter](images/inpipe.png)
 
